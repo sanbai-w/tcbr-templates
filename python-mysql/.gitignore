@@ -1,0 +1,14 @@
+**/node_modules
+**/package-lock.json
+**/dist
+**/build
+**/logs
+*.sql
+
+**/.DS_Store
+**/__pycache__
+
+**/.vscode
+**/.cursor
+**/.idea
+**/.idea
